@@ -2,8 +2,7 @@
 <h3 align="center">Aspiring Data analyst/Data scientist</h3>
 <img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
--🔭 I’m currently looking for an Entry-Level Job.
-- 🌱 I’m currently learning Artificial Intelligenc
+- 🔭 I’m currently Looking for an Entry_Level Data Analyst job.
 - 📫 How to reach me **lavanyaandole5458@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

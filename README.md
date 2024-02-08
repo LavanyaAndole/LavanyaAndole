@@ -2,12 +2,17 @@
 <h3 align="center">Aspiring Data analyst/Data scientist</h3>
 <img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-- 🔭 I’m currently Looking for an Entry_Level Data Analyst job.
+- 🔭 I’m currently Looking for an Entry-Level Data Analyst job.
 - 📫 How to reach me **lavanyaandole5458@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lavanya-andole-75209a234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavanya andole" height="30" width="40" /></a>
+a href="https://www.linkedin.com/in/lavanya-andole-75209a234/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/LavanyaAndole">
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

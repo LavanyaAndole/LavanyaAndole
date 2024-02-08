@@ -5,6 +5,7 @@
 - 🔭 I’m currently Looking for an Entry-Level Data Analyst job.
 - 📫 How to reach me **lavanyaandole5458@gmail.com**
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lavanya-andole-75209a234/">
@@ -16,6 +17,9 @@
 </p>
 
 <br><br>
+<h3 align="left">Skills:</h3>
+- Python,R,SQL,MS-Excel, PowerBI ,SPSS   
+
 
 
 <h3 align="left">Languages and Tools:</h3>
